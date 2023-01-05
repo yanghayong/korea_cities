@@ -135,6 +135,10 @@ h1 {
   margin-bottom: 30px;
 }
 
+.place ul li .text_box .gps {
+  font-weight: bold;
+}
+
 .footer {
   padding: 60px 0;
   border-top: 1px solid rgba(0, 0, 0, 0.4);
